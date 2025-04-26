@@ -29,10 +29,10 @@
 > _Add your UI/UX screenshots here._
 
 ![Screenshot 1](https://play-lh.googleusercontent.com/0G-T5hUrrMAde-LnzLQJFgFlilbA_lXiYhggG-XnHA0Khd46w2AIODdwmynT3CxRFQ=w2560-h1440-rw)
-![Screenshot 2](path/to/your/screenshot2.png)
-![Screenshot 3](path/to/your/screenshot3.png)
-![Screenshot 4](path/to/your/screenshot4.png)
-![Screenshot 5](path/to/your/screenshot5.png)
+![Screenshot 2](https://play-lh.googleusercontent.com/SsqvfD_RtEO0q92j69_inWPqTxQzgs5xlgG7OcNhNpjS6YK1ch-BTvkpuT3dAwyqBIc=w2560-h1440-rw)
+![Screenshot 3](https://play-lh.googleusercontent.com/T125N1b1c-XprA1SxK0xwyyqyBiD4RZsebm18SO08q5oADvyItGwWSfFrtRrcwGvKvI=w2560-h1440-rw)
+![Screenshot 4](https://play-lh.googleusercontent.com/CQnR6XId2OuyuwErCNdWedb7q28umlqLgvbPoLiBhlO9IYBTd7gmxvEfEXhsKE8g4SU=w2560-h1440-rw)
+![Screenshot 5](https://play-lh.googleusercontent.com/apg7PF9UOzCROqbZvBGhtpXy8QsOPbK-zjGDC892ZbZME69vgZiUmAyH5WutDNTUIgKP=w2560-h1440-rw)
 
 ### Code Structure
 
